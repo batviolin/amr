@@ -1,0 +1,7 @@
+{
+  "name": "AMR Krishi Rakshak - Crop Antimicrobial Resistance Shield",
+  "description": "Interactive farmer advisory and diagnostic platform to detect, prevent, and treat antimicrobial resistance (AMR) in crops with bilingual English and Hindi guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
